@@ -33,7 +33,7 @@
                     Console.WriteLine("Sa said kuus.");
                     break;
                 default:
-                    Console.WriteLine("Midagi läks valesti.");
+                    Console.WriteLine("Midagi läks valesti ERROR.");
                     break;
             }
         }
