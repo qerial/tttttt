@@ -13,7 +13,6 @@
             switch (input)
             {
                 case 1:
-
                     Console.Beep(1000, 500);
                     break;
                 case 2:
