@@ -13,16 +13,14 @@
             switch (input)
             {
                 case 1:
-                    Console.WriteLine("case 1");
+
                     Console.Beep(1000, 500);
                     break;
                 case 2:
-                    Console.WriteLine("case 2");
                     Console.Beep(2000, 500);
                     Console.Beep(2000, 500);
                     break;
                 case 3:
-                    Console.WriteLine("case 3");
                     Console.Beep(3000, 50);
                     Console.Beep(3000, 50);
                     Console.Beep(3000, 50);
